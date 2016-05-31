@@ -20,7 +20,7 @@ function delete_user($userID, $myEmail, $myPassword, $myCustomerID, $myAccountUR
      
      //echo $params;
                 
-     $client = new soapclient($myAccountURL.'/services/api/1.0/ArticulateOnline.asmx?wsdl',array('encoding'=>'UTF-8'));
+     $client = new nusoap_client($myAccountURL.'/services/api/1.0/ArticulateOnline.asmx?wsdl',array('encoding'=>'UTF-8'));
   ini_set("soap.wsdl_cache_enabled", "0"); 
  
     $err = $client->getError();

@@ -48,7 +48,7 @@ if (count($users)>0){
         </h2>
      <h4>Select users to delete</h4>
    
-<p>Displaying first 150 users on your account including <strong>Admins</strong> and <strong>Publishers.</strong></p>
+<p>Displaying first 500 users on your account including <strong>Admins</strong> and <strong>Publishers.</strong></p>
 
 <?php
 
@@ -58,9 +58,6 @@ echo "<input type=hidden name=emailAddress value=" . $myEmail . " /><br>";
 echo "<input type=hidden name=password value=" . $myPassword . " /><br>";
 echo "<input type=hidden name=URL value=" . $URL . " /><br>";
 echo "<input type=hidden name=custID value=" . $custID . " /><br>";
-
-'echo '<h2>Request</h2><pre>' . htmlspecialchars($client->request, ENT_QUOTES) . '</pre>';
-'echo '<h2>Response</h2><pre>' . htmlspecialchars($client->response, ENT_QUOTES) . '</pre>';
 
 ?>
 <br />

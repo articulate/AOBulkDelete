@@ -12,7 +12,7 @@ $params = "<ListUsersRequest xmlns='http://www.articulate-online.com/services/ap
       </Credentials>
     </ListUsersRequest>";
 
-$client = new soapclient($AccountURL.'/services/api/1.0/ArticulateOnline.asmx?wsdl',array('encoding'=>'UTF-8'));
+$client = new nusoap_client($AccountURL.'/services/api/1.0/ArticulateOnline.asmx?wsdl',array('encoding'=>'UTF-8'));
   ini_set("soap.wsdl_cache_enabled", "0"); 
  
 $err = $client->getError();

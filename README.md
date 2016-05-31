@@ -5,6 +5,10 @@ Install instructions:
 
 1. Install nusoap on your server
 
-2. open config.php
+2. Upload the files to your server
 
-3. Update this line to point to location of nusoap on your server: require_once('../../lib/nusoap.php');
+3. Open the index.php file
+
+Note:
+
+You may need to update the nusoap location in the config.php file if the application doesn't work as expected.
