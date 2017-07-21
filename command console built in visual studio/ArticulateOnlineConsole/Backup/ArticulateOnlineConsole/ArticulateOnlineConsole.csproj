@@ -52,10 +52,10 @@
     <WebReferences Include="Web References\" />
   </ItemGroup>
   <ItemGroup>
-    <WebReferenceUrl Include="https://yoururl.articulateonline.com/services/api/1.0/ArticulateOnline.asmx%3fwsdl">
+    <WebReferenceUrl Include="https://yoururl.articulate-online.com/services/api/1.0/ArticulateOnline.asmx%3fwsdl">
       <UrlBehavior>Dynamic</UrlBehavior>
       <RelPath>Web References\Articulate\</RelPath>
-      <UpdateFromURL>https://yoururl.articulateonline.com/services/api/1.0/ArticulateOnline.asmx%3fwsdl</UpdateFromURL>
+      <UpdateFromURL>https://yoururl.articulate-online.com/services/api/1.0/ArticulateOnline.asmx%3fwsdl</UpdateFromURL>
       <ServiceLocationURL>
       </ServiceLocationURL>
       <CachedDynamicPropName>
