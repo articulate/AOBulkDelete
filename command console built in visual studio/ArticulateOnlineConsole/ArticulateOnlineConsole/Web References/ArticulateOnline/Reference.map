@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="https://aochonicki2.ao-stage-00.com/services/api/1.0/ArticulateOnline.asmx?wsdl" filename="ArticulateOnline.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>

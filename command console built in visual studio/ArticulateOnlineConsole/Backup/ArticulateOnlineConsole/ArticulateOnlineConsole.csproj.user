@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>https://dave1.aobeta.com ListUsers /EmailAddress=dmozealous@articulate.com /Password=cheater1 /CustomerID=43987</StartArguments>
+  </PropertyGroup>
+</Project>
