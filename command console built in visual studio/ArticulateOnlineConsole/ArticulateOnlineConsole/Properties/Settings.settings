@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="ArticulateOnlineConsole_ArticulateOnline_ArticulateOnline" Type="(Web Service URL)" Scope="Application">
-      <Value Profile="(Default)">https://aochonicki2.ao-stage-00.com/services/api/1.0/ArticulateOnline.asmx</Value>
+      <Value Profile="(Default)">https://yourdomain.articulate-online.com/services/api/1.0/ArticulateOnline.asmx</Value>
     </Setting>
   </Settings>
 </SettingsFile>
