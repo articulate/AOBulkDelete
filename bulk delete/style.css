@@ -1,0 +1,85 @@
+body {
+	font-size: small;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	background: #ffffff;
+}
+
+html {
+	background: #ffffff;
+}
+
+table {
+	font-size: small;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	background: #ffffff;
+}
+
+h1 
+{
+	font-size: large;
+}
+
+h2
+{ 
+	font-size: medium;
+}
+
+
+.BuildStatusGood
+{
+	color: Olive;
+}
+
+.BuildStatusBad
+{
+	color: Maroon;
+}
+
+.tabletitle
+{
+	font-weight: bold;
+}
+
+td
+{
+	padding: 5px;
+}
+
+.GridMain
+{
+	width: 600px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #333333;
+}
+
+.GridMinro
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #333333;
+}
+
+.GridRowEvens
+{
+	background: #ffffff;
+}
+
+.GridRowOdds
+{
+	background: #fbfbfb;
+}
+
+.GridHeader
+{
+	color: #333333;
+	font-weight: bold;
+	background: #cccccc;
+}
+
+.GridSelected
+{
+	color: #FF0000;
+	font-weight: bold;
+	background: #00FF00;
+}

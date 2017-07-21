@@ -1,0 +1,5 @@
+C:\Users\articulate\Downloads\ArticulateOnlineConsole\ArticulateOnlineConsole\bin\Debug\ArticulateOnlineConsole.exe.config
+C:\Users\articulate\Downloads\ArticulateOnlineConsole\ArticulateOnlineConsole\obj\Debug\ArticulateOnlineConsole.exe
+C:\Users\articulate\Downloads\ArticulateOnlineConsole\ArticulateOnlineConsole\obj\Debug\ArticulateOnlineConsole.pdb
+C:\Users\articulate\Downloads\ArticulateOnlineConsole\ArticulateOnlineConsole\bin\Debug\ArticulateOnlineConsole.exe
+C:\Users\articulate\Downloads\ArticulateOnlineConsole\ArticulateOnlineConsole\bin\Debug\ArticulateOnlineConsole.pdb
