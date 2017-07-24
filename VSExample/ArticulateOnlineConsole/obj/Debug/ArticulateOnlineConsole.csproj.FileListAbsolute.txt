@@ -1,0 +1,16 @@
+C:\Users\Steve\Desktop\post api sample\ArticulateOnlineConsole\bin\Debug\ArticulateOnlineConsole.exe.config
+C:\Users\Steve\Desktop\post api sample\ArticulateOnlineConsole\obj\Debug\ArticulateOnlineConsole.exe
+C:\Users\Steve\Desktop\post api sample\ArticulateOnlineConsole\obj\Debug\ArticulateOnlineConsole.pdb
+C:\Users\Steve\Desktop\post api sample\ArticulateOnlineConsole\bin\Debug\ArticulateOnlineConsole.exe
+C:\Users\Steve\Desktop\post api sample\ArticulateOnlineConsole\bin\Debug\ArticulateOnlineConsole.pdb
+C:\Users\steve\OneDrive\Articulate\post api sample\ArticulateOnlineConsole\bin\Debug\ArticulateOnlineConsole.exe.config
+C:\Users\steve\OneDrive\Articulate\post api sample\ArticulateOnlineConsole\obj\Debug\ArticulateOnlineConsole.exe
+C:\Users\steve\OneDrive\Articulate\post api sample\ArticulateOnlineConsole\obj\Debug\ArticulateOnlineConsole.pdb
+C:\Users\steve\OneDrive\Articulate\post api sample\ArticulateOnlineConsole\bin\Debug\ArticulateOnlineConsole.exe
+C:\Users\steve\OneDrive\Articulate\post api sample\ArticulateOnlineConsole\bin\Debug\ArticulateOnlineConsole.pdb
+C:\Users\bbatt\Documents\GitHub\Articulate-Online-API-Examples\VSExample\ArticulateOnlineConsole\bin\Debug\ArticulateOnlineConsole.exe.config
+C:\Users\bbatt\Documents\GitHub\Articulate-Online-API-Examples\VSExample\ArticulateOnlineConsole\bin\Debug\ArticulateOnlineConsole.exe
+C:\Users\bbatt\Documents\GitHub\Articulate-Online-API-Examples\VSExample\ArticulateOnlineConsole\bin\Debug\ArticulateOnlineConsole.pdb
+C:\Users\bbatt\Documents\GitHub\Articulate-Online-API-Examples\VSExample\ArticulateOnlineConsole\obj\Debug\ArticulateOnlineConsole.csprojResolveAssemblyReference.cache
+C:\Users\bbatt\Documents\GitHub\Articulate-Online-API-Examples\VSExample\ArticulateOnlineConsole\obj\Debug\ArticulateOnlineConsole.exe
+C:\Users\bbatt\Documents\GitHub\Articulate-Online-API-Examples\VSExample\ArticulateOnlineConsole\obj\Debug\ArticulateOnlineConsole.pdb

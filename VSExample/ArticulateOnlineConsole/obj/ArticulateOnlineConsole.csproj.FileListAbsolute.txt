@@ -1,0 +1,6 @@
+C:\Users\Jesse Ezell\Documents\Visual Studio 2005\Projects\ArticulateOnlineConsole\ArticulateOnlineConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse Ezell\Documents\Visual Studio 2005\Projects\ArticulateOnlineConsole\ArticulateOnlineConsole\bin\Debug\ArticulateOnlineConsole.exe.config
+C:\Users\Jesse Ezell\Documents\Visual Studio 2005\Projects\ArticulateOnlineConsole\ArticulateOnlineConsole\bin\Debug\ArticulateOnlineConsole.exe
+C:\Users\Jesse Ezell\Documents\Visual Studio 2005\Projects\ArticulateOnlineConsole\ArticulateOnlineConsole\bin\Debug\ArticulateOnlineConsole.pdb
+C:\Users\Jesse Ezell\Documents\Visual Studio 2005\Projects\ArticulateOnlineConsole\ArticulateOnlineConsole\obj\Debug\ArticulateOnlineConsole.exe
+C:\Users\Jesse Ezell\Documents\Visual Studio 2005\Projects\ArticulateOnlineConsole\ArticulateOnlineConsole\obj\Debug\ArticulateOnlineConsole.pdb
